@@ -988,3 +988,15 @@ body.nav-active { overflow: hidden; }
   .hero .section-text { margin-block-end: 52px; }
 
 }
+
+
+
+.hero-photo {
+    width: 500px;
+    height: auto;
+}
+
+.hero-banner {
+    max-width: 500px;
+    margin: 0 auto;
+}
