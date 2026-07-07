@@ -992,11 +992,11 @@ body.nav-active { overflow: hidden; }
 
 
 .hero-photo {
-    width: 500px;
+    width: 400px;
     height: auto;
 }
 
 .hero-banner {
-    max-width: 500px;
+    max-width: 400px;
     margin: 0 auto;
 }
